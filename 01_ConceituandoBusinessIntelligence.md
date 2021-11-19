@@ -8,7 +8,9 @@ Existem diversas respostas para essa pergunta, mas, com certeza, a definição a
 
 ## Um breve histórico sobre BI
 
-O termo BI  havia sido  utilizado anteriormente. Como  uma  das  primeiras referências, podemos  citar  a  publicação  de  Hans  Peter  Luhn  no IBM®Journal  of Research and Developmen tem outubro de 1958, com o título “A Business Intelligence System”. Nesseartigo, Luhn  discorre  sobre  um sistema de  inteligência  que estava sendo  desenvolvido e que utilizava máquinas  de  processamento  de  dados  para codificação dos documentos com informações relevantes e para a definição de perfis de  interesse,  em  pontos da ação de  uma  organização.  Tal  sistema  atuaria na identificação das informações, na busca de quem precisa conhecê-la se na forma de disseminá-las de maneira eficiente.
+O termo BI  havia sido  utilizado anteriormente. Como  uma  das  primeiras referências, podemos  citar  a  publicação  de  Hans  Peter  Luhn  no IBM®Journal  of Research and Developmen tem outubro de 1958, com o título “A Business Intelligence System”. Nesseartigo, Luhn  discorre  sobre  um sistema de  inteligência  que estava sendo  desenvolvido e que utilizava máquinas  de  processamento  de  dados  para codificação dos documentos com informações relevantes e para a definição de perfis de  interesse,  em  pontos da ação de  uma  organização.  
+
+    Tal  sistema  atuaria na identificação das informações, na busca de quem precisa conhecê-la se na forma de disseminá-las de maneira eficiente.
 
 Em meados de 1964, o desenvolvimento do IBM System 360 e de outros sistemas de mainframe tornou viável para as grandes empresas desenvolverem os Sistemas de Informação de Gerenciamento (SIG), sistemas com o objetivo de fornecer aos gerentes importantes relatórios periódicos estruturados, mas ainda estáticos e sem recursos de análise ou suporte interativo.
 
@@ -18,7 +20,7 @@ Por volta de 1970, revistas e comunidades acadêmicas envolvidas começaram a pu
 
 Então evoluções ocorreram para facilitar a vida dos gerentes médios a partir do desenvolvimento dos SADs. Um Sistema de Apoio à Decisão busca informa ões nos SPTs, SIGs ou em fontes externas, para ajudar os gerentes de nível médio a responder questões sobre problemas que não possuem um procedimento de resolução totalmente definido, tais como: em determinadas circunstâncias, qual é a melhor maneira de realizar a entrega de um pedido específico? Em qual tipo de pedido devemos terceirizar os serviços de entrega e qual será a melhora no resultado financeiro, adotando essa opção?
 
-Como podemos perceber nas questões acima, um SAD deve possibilitar que os gerentes trabalhem e tomem decisões sobre grande quantidade dos dados condensados pelo sistema e, a partir dos modelos matemáticos mais avançados, analisar e tomar decisões semiestruturadas ou não estruturadas importantes para o negócio.
+    Como podemos perceber nas questões acima, um SAD deve possibilitar que os gerentes trabalhem e tomem decisões sobre grande quantidade dos dados condensados pelo sistema e, a partir dos modelos matemáticos mais avançados, analisar e tomar decisões semiestruturadas ou não estruturadas importantes para o negócio.
 
 Apesar de um grande avanço, os gerentes sêniores e executivos apresentavam necessidades ainda mais complexas, nesse nível de gestão, decisões não estruturadas precisam ser tomadas sobre as informações internas agregadas a uma grande quantidade de informações externas, tais como: análises sobre ações, notícias, tendências do mercado, posicionamento dos concorrentes etc.
 
@@ -34,7 +36,7 @@ Essas ferramentas foram possíveis graças à evolução da tecnologia, não pod
 
 Quando o termo BI foi cunhado, no final da década de 1980, havia todo sentido em definir Business Intelligence como um termo abrangente que agrupa conceitos e métodos para melhorar a tomada das decisões de negócio, usando sistemas de suporte baseados em fatos. Pois, naquele momento, existiam diversos conceitos, métodos e ferramentas no mercado, oriundos das necessidades e implementações feitas desde a década de 1970.
 
-BI não surgiu para substituir os demais tipos dos sistemas de suporte a decisões semiestruturadas e não estruturadas (SAD, SAE e DSS), pois, como a própria definição de Business Intelligence determina, BI não se resume a um sistema.
+    BI não surgiu para substituir os demais tipos dos sistemas de suporte a decisões semiestruturadas e não estruturadas (SAD, SAE e DSS), pois, como a própria definição de Business Intelligence determina, BI não se resume a um sistema.
 
 Podemos dizer que o BI nasceu e evoluiu com base em todas as experiências anteriores e, atualmente, enquanto os demais sistemas de suporte à decisão são aplicados em menor escala, para atender as decisões mais específicas, personalizadas conforme o nível gerencial ou natureza do problema, iniciativas de BI são concebidas como projetos de larga escala, requerendo grande infraestrutura, para atender aos vários usuários de diversos níveis decisórios e para suportar várias tecnologias que serão utilizadas para gerar informações.
 
@@ -42,13 +44,21 @@ Podemos dizer que o BI nasceu e evoluiu com base em todas as experiências anter
 
 ## Definições atuais sobre BI
 
-O termo Business Intelligence, tal qual o conhecemos hoje, acabou associado ao Grupo Gartner pela sua ligação com Dresner. Atualmente, podemos encontrar no site do Gartner a seguinte definição de BI: “BI é um termo guarda-chuva que inclui os aplicativos, a infraestrutura, as ferramentas e as melhores práticas que permitem o acesso e a análise de informações para melhorar e otimizar decisões e desempenho”.
+O termo Business Intelligence, tal qual o conhecemos hoje, acabou associado ao Grupo Gartner pela sua ligação com Dresner. Atualmente, podemos encontrar no site do Gartner a seguinte definição de BI: 
+
+    “BI é um termo guarda-chuva que inclui os aplicativos, a infraestrutura, as ferramentas e as melhores práticas que permitem o acesso e a análise de informações para melhorar e otimizar decisões e desempenho”.
 
 A IBM define Business Intelligence (BI) em um dos seus redbooks como a coleta e a análise das grandes quantidades de dados para obter informações que orientem decisões de negócio estratégicas e táticas, para melhorar o desempenho de uma empresa no mercado.
 
-    Segundo a IBM, os dados podem estar relacionados a todas as facetas do negócio, como transações e distribuição demografia dos clientes, informações financeiras da empresa, processos de fabricação, gerenciamento de inventário, tendências da indústria, transações de fornecedores e perfis dos concorrentes. Os dados de Business Intelligence são coletados de fontes internas, como sistemas de transação, processos de fabricação, registros dos clientes, bem como de fontes externas, como consultoria e estudos da indústria, a mídia impressa e internet.
+Segundo a IBM, os dados podem estar relacionados a todas as facetas do negócio, como transações e distribuição demografia dos clientes, informações financeiras da empresa, processos de fabricação, gerenciamento de inventário, tendências da indústria, transações de fornecedores e perfis dos concorrentes. Os dados de Business Intelligence são coletados de fontes internas, como sistemas de transação, processos de fabricação, registros dos clientes, bem como de fontes externas, como consultoria e estudos da indústria, a mídia impressa e internet.
 
-A SAS, importante fornecedora de soluções para Business Intelligence, definiu BI, em uma de suas publicações, como: “Uma ampla categoria de programas, aplicação e tecnologias para coletar, armazenar, analisar e fornecer acesso a dados para ajudar os usuários corporativos a tomar as melhores decisões de negócios”. Em outro trecho, completou com: “É a arte de obter uma vantagem comercial a partir de dados, respondendo perguntas fundamentais”.
+A SAS, importante fornecedora de soluções para Business Intelligence, definiu BI, em uma de suas publicações, como: 
+
+    “Uma ampla categoria de programas, aplicação e tecnologias para coletar, armazenar, analisar e fornecer acesso a dados para ajudar os usuários corporativos a tomar as melhores decisões de negócios”. 
+    
+Em outro trecho, completou com: 
+
+    “É a arte de obter uma vantagem comercial a partir de dados, respondendo perguntas fundamentais”.
 
 Aproveitando a definição SAS, é importante comentar que o benefício “vantagem comercial”, atingido com o uso de BI, em alguns momentos, gera confusão entre as definições de business intelligence e competitive intelligence. Apesar de ambas apoiarem a tomada das decisões, essas abordagens não são iguais, uma vez que a inteligência competitiva se limita a analisar e disseminar informações com foco especial nas relações com os concorrentes da empresa, enquanto o BI tem objetivos muito mais amplos.
 
@@ -62,7 +72,7 @@ Na mesma linha entre BI e inteligência competitiva, outra dúvida que se aprese
 
 Não podemos analisar tal fato como um declínio do BI e muito menos da sua importância como solução para suporte a decisões, pois a busca por um termo mais antigo e consolidado tende naturalmente a diminuir, considere as pesquisas sobre EIS que incluímos na análise do Google Trends.
 
-!["Google Trends BA, BI e EI"](/images/googleTrendsBIxBA.png)
+!["Google Trends BA, BI e EI"](/images/01_Conceituando/googleTrendsBIxBA.png)
 | - Google Trends BA, BI e EI(Fonte: Google Trends(2017))
 
 Tal como ocorreu no surgimento das soluções BI, a implementação de Business Analytics não veio para substituir Business Intelligence, e sim para atender necessidades ainda ligadas a tomadas das decisões. O BI tradicional age gerando informações sobre dados passados, dos segundos, minutos, anos ou décadas atrás, para que, por meio da base histórica, explique o que aconteceu e por que aconteceu.
@@ -75,7 +85,7 @@ Pois bem, se pensarmos um pouco mais sobre BA, vamos perceber que entender o que
 
 Então, por que tanto interesse em Business Analytics?
 
-A novidade está na capacidade atual de fazermos as análises, processando uma quantidade gigantesca de dados e sem profundos conhecimentos sobre estatística. Novamente, isso foi possível pelo avanço da tecnologia de hardware, redes e softwares, que, nos dias de hoje, suportam os requisitos necessários para tais esforços computacionais e, quando não on-premises, ainda podem se valer da capacidade em cloud.
+>A novidade está na capacidade atual de fazermos as análises, processando uma quantidade gigantesca de dados e sem profundos conhecimentos sobre estatística. Novamente, isso foi possível pelo avanço da tecnologia de hardware, redes e softwares, que, nos dias de hoje, suportam os requisitos necessários para tais esforços computacionais e, quando não on-premises, ainda podem se valer da capacidade em cloud.
 
 ---
 
@@ -85,7 +95,7 @@ Como apresentamos, BI é um termo abrangente formado por um conjunto de itens qu
 
 Vamos entender BI através dos principais itens que o compõem.
 
-!["Componentes do BI"](/images/componentesDoBI.png)
+!["Componentes do BI"](/images/01_Conceituando/componentesDoBI.png)
 | - Componentes do BI(Fonte: FIAP(2017))
 
 ---
@@ -149,7 +159,7 @@ Enfim, como dados brutos se transformam em informações relevantes, para a toma
 
 A imagem abaixo apresenta, em alto nível, como os processos acontecem.
 
-!["Processos do BI"](/images/processoBI.png)
+!["Processos do BI"](/images/01_Conceituando/processoBI.png)
 | - Processos do BI(Fonte: Oracle, adaptado pela FIAP(2017))
 
 ---
@@ -171,10 +181,10 @@ O objetivo do BPM é ajudar as empresas a melhorar e otimizar suas operações e
 
 Balanced Scorecard (BSC) é uma ferramenta de medição e gestão de desempenho, que se organiza em torno de quatro perspectivas: financeira, clientes, processos internos e aprendizagem e crescimento. O BSC apresenta um caminho para a gestão do desempenho de uma empresa, capaz de ligar o plano estratégico à execução das tarefas. Essa ferramenta utiliza indicadores, definidos para cada uma das perspectivas, para o monitoramento e o controle do desempenho.
 
-!["Perspectivas do BSC"](/images/perspectivasBSC.png)
+!["Perspectivas do BSC"](/images/01_Conceituando/perspectivasBSC.png)
 | - Perspectivas do BSC(Fonte: FIAP(2017))
 
-O Balanced Scorecard pode ser aplicado em qualquer tipo de empresa, independentemente do porte, tipo ou setor de atividade.
+>O Balanced Scorecard pode ser aplicado em qualquer tipo de empresa, independentemente do porte, tipo ou setor de atividade.
 
 Os indicadores utilizados pelo BSC são do tipo quantitativo ou qualitativo, são medidos com frequência e constantemente comparados as metas. Dessa forma, uma empresa que utiliza o BSC é capaz de monitorar sua performance por iniciativa que procura evoluir os resultados de uma perspectiva. Por ser mais simples, leve e orientado a estratégias, o BSC é a abordagem mais utilizada com o BI.
 
@@ -194,7 +204,7 @@ Existem duas abordagens para a modelagem de dados em um DW. Inmon defende a cria
 
 A tabela fato representa um processo de negócio; em nosso exemplo, a Venda é uma tabela fato. Essa tabela possui todos os itens vendidos de todas as notas fiscais de todas as lojas.
 
-!["Modelo dimensional de venda"](/images/modeloDimensionalDeVenda.png)
+!["Modelo dimensional de venda"](/images/01_Conceituando/modeloDimensionalDeVenda.png)
 | - Modelo dimensional de venda(Fonte: FIAP(2017))
 
 Dessa forma, via um cubo OLAP, um usuário consegue obter informações de todas as vendas, por período (filtrando pela tabela Data), por cliente (filtrando por Cliente) e por loja (filtrando por Loja).
@@ -279,7 +289,7 @@ Esta é uma técnica de análise para fazer descobertas automáticas sobre padr�
 
 O Data Mining utiliza algoritmos complexos e técnicas de inteligência artificial para fazer tais descobertas e transformá-las em informações úteis para a tomada de decisão e/ou avaliação de resultados. Atualmente, um emprego muito comum desta técnica é seu uso na prevenção de fraude, segmentação de clientes e previsão de comportamento.
 
-!["Visão geral do BI"](/images/visaoGeralBI.png)
+!["Visão geral do BI"](/images/01_Conceituando/visaoGeralBI.png)
 | - Visão geral do BI(Fonte: FIAP(2017))
 
 ---
