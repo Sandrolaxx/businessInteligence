@@ -405,7 +405,7 @@ Ao final, foram apresentadas técnicas para lidar com mudanças em dimensões e 
 
 ## Glossário
 
-|Siglâ    |Descrição  | 
+|Sigla    |Descrição  | 
 |---      |   ---     |
 |DBMS|Database Management System ou Sistema Gerenciador de Banco de Dados. É software que interage com usuários finais, outras aplicações e o próprio banco de dados para capturar e analisar dados.|
 |IBM|International Business Machines (IBM) – é uma empresa dos Estados Unidos voltada para a área de informática. Uma das poucas na área de tecnologia da informação (TI) com uma história contínua que remonta ao século XIX.|
