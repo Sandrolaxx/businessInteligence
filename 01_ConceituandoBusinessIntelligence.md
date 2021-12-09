@@ -306,7 +306,7 @@ Lembro que as várias definições do termo Business Intelligence utilizam as pa
 
 ## Glossário
 
-|Siglâ |Descrição  |
+|Sigla |Descrição  |
 --- | --- | 
 |Gartner Group|Gartner é uma empresa de consultoria fundada em 1979 por Gideon Gartner.|
 |SPT|Sistemas de Processamentos Transacionais são sistemas que processam o básico da operação no dia a dia de uma empresa, como estoque, pedidos, vendas etc.|
