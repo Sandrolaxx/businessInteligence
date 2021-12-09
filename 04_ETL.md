@@ -245,7 +245,7 @@ O objetivo deste conteúdo foi abordar o essencial sobre ETL e Pentaho. Existem 
 
 ## Glossário
 
-| Siglâ | Significado | 
+| Sigla | Significado | 
 |  ---  |     ---     |
 |Active Directory|Implementação de serviço de diretório no protocolo LDAP que armazena informações sobre objetos em rede de computadores e disponibiliza essas informações a usuários e administradores desta rede.|
 |Business Analytics|A análise de negócios (BA) refere-se às habilidades, tecnologias, práticas para a exploração iterativa contínua e investigação do desempenho das empresas passadas para obter informações e impulsionar o planejamento de negócios. BA concentra-se no desenvolvimento de novos conhecimentos e na compreensão do desempenho do negócio com base em dados e métodos estatísticos.|
