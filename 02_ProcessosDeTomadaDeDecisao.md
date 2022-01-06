@@ -556,7 +556,7 @@ O objetivo deste conteúdo foi abordar o básico e essencial sobre ERP e CRM, po
 
 ## Desenvolver uma solução caseira
 
-|Siglâ |Descrição  | 
+|Sigla |Descrição  | 
 ---      |   ---         |
 |ERP | Enterprise Resource Planning é um sistema modular, integrado através de um banco de dados comum. Os módulos atendem praticamente a todas as áreas e departamentos de uma empresa, de forma que um único evento que tenha dado origem à execução de um processo de um departamento, seja trabalhado pelas demais áreas que tenham alguma responsabilidade paralela ou sequencial sobre ele. |
 |MRP | Material Requirement Planning ou Planejamento das Necessidades de Materiais, sistemas capazes de processar o planejamento e o replanejamento otimizado da produção calculando os materiais necessários e os momentos de obtê- los, reduzindo custos e atendendo a demanda dentro das restrições de prazos impostas pelos clientes, além de controlar estoque.
